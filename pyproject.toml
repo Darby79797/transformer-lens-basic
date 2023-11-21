@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "project_name"
+name = "transformer-lens-basis"
 version = "0.0.0"  
 description = "Project Description"
-authors = ["Alan Cooney <41682961+alan-cooney@users.noreply.github.com>"]
+authors = ["Alex Darby","Alan Cooney <41682961+alan-cooney@users.noreply.github.com>"]
 license = "MIT"
 readme = "README.md"
 include = ["src"]
