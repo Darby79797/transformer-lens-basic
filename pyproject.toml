@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "transformer-lens-basis"
+name = "transformer-lens-basic"
 version = "0.0.0"  
 description = "Project Description"
 authors = ["Alex Darby","Alan Cooney <41682961+alan-cooney@users.noreply.github.com>"]
 license = "MIT"
 readme = "README.md"
-include = ["src"]
+include = ["transformer-lens-basic"]
 
 [tool.poetry.dependencies]
 python = ">=3.9, <3.13"
